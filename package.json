@@ -1,0 +1,22 @@
+{
+  "name": "showmyname-aks",
+  "version": "1.0.0",
+  "description": "showmyname",
+  "main": "inedx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArrKuu77/showMyName.git"
+  },
+  "keywords": [
+    "showmyname"
+  ],
+  "author": "aungkaungsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArrKuu77/showMyName/issues"
+  },
+  "homepage": "https://github.com/ArrKuu77/showMyName#readme"
+}
